@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="488">
@@ -24,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hlq.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="hlq.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hlq.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+            <state relative-caret-position="405">
+              <caret line="27" column="97" lean-forward="false" selection-start-line="27" selection-start-column="97" selection-end-line="27" selection-end-column="97" />
               <folding />
             </state>
           </provider>
@@ -68,8 +68,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/project/project-detail-style.css" />
-        <option value="$PROJECT_DIR$/hlq.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/hlq.html" />
       </list>
     </option>
   </component>
@@ -158,12 +158,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536467624310</updated>
-      <workItem from="1536467625451" duration="237000" />
+      <workItem from="1536467625451" duration="636000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237000" />
+    <option name="totallyTimeSpent" value="636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="42" width="1341" height="794" extended-state="0" />
@@ -214,14 +214,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hlq.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/image/hlq.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -236,6 +228,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="488">
           <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hlq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="97" lean-forward="false" selection-start-line="27" selection-start-column="97" selection-end-line="27" selection-end-column="97" />
           <folding />
         </state>
       </provider>

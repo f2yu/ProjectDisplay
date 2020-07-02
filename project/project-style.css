@@ -82,3 +82,5 @@ body {
 	width:93%;
 	display:block;
 }
+
+.itemImage { display:block; width:100px; height:300px} 

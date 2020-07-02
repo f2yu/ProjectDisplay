@@ -151,3 +151,5 @@ body {
 .moblie{
 	width: 50%;
 }
+
+.itemImage img{ display:block; width:100px; height:300px} 
